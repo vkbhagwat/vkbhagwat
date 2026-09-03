@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     Hi there, I'm <a href="https://vishalbhagwat.vercel.app" target="_blank">Vishal Bhagwat</a> 👋
   </h1>
   <p>
-    <strong>Senior Frontend Engineer (8+ Years)</strong>
+    <strong>Senior Frontend Engineer (9+ Years)</strong>
   </p>
   <p>
     JavaScript Architect | React & Angular Specialist | Data Visualization Engineer
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Engineering Digital Experiences at Scale
 
-With 8+ years of experience crafting exceptional digital experiences, I specialize in building scalable, high-performance frontend systems using modern web technologies.
+With 9+ years of experience crafting exceptional digital experiences, I specialize in building scalable, high-performance frontend systems using modern web technologies.
 
 I don’t just build UI — I design **frontend architectures**.
 
